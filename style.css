@@ -15,8 +15,8 @@ body {
 
 .container {
   text-align: center;
-  padding: 24px;
-  width: 100%;
+  padding: 34px;
+  width: 150%;
   max-width: 450px;
 }
 
@@ -59,7 +59,7 @@ button {
 .gallery {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 60px;
+  gap: 100px;
 }
 
 .gallery img {
