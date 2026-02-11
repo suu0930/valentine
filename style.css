@@ -63,7 +63,7 @@ button {
 }
 
 .gallery img {
-  width: 200%;
+  width: 150%;
   max-width: 480px;
   aspect-ratio: 1/1;
   object-fit: cover;
